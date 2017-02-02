@@ -1,6 +1,8 @@
 # Data-Comm-Project-Lamar-Sims---Spring-2016
 My Data Communication Project from College, Georgia Southern University
 
+Individual Project
+
 I have made a simple program with the thought of TCP in mind. I use Java for the programming language and use Eclipse and Android Studio
 for the IDEs. I developed it for Android 5.1.1, which is what my smartphone runs. It is a messaging application between a server and
 client. In particular the server is my laptop and the client is my smartphone, but other PCs should be able to connect to my server as
